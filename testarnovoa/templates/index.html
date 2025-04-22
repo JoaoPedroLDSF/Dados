@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Gráficos</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>Gráficos da Pesquisa</h1>
+    {% for grafico in graficos %}
+        <div>{{ grafico | safe }}</div>
+        <hr>
+    {% endfor %}
+</body>
+</html>

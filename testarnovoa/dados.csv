@@ -1,0 +1,325 @@
+Idade;Gênero?;Você possui CNH?;Você possui conhecimento em mecânica automotiva?;Conhece algum mecânico de confiança?;Se conhece, foi indicação de algum parente?;O quanto você é confiante para mexer na mecânica de um veículo?;Quantas vezes já levou o seu veículo na mecânica?
+18-20;Homem;Sim;Não;Não;Não;1-3;2
+18-20;Homem;Sim;Não;Não;Não conheço;Não possuo conhecimento;3
+18-20;Homem;Não;Não;Não;Não conheço;Não possuo conhecimento;Não possuo veículo 
+21-24;Homem;Sim;Sim;Sim;Sim;3-5;Mais de 5
+18-20;Homem;Não;Não;Não;Não conheço;Não possuo conhecimento;0
+21-24;Homem;Sim;Sim;Não;Não conheço;1-3;6 vezes
+18-20;Mulher;Não;Não;Não;Não conheço;Não possuo conhecimento;Não tenho veículo.
+21-24;Mulher;Não;Não;Não;Não conheço;Não possuo conhecimento;Nenhuma vez 
+30+;Homem;Sim;Sim;Sim;Sim;5-7;Mais de 10
+18-20;Homem;Não;Não;Não;Não conheço;1-3;Não tenho veículo
+30+;Homem;Sim;Não;Sim;Não;Não possuo conhecimento;05
+30+;Homem;Sim;Não;Sim;Sim;Não possuo conhecimento;Apenas em revisões na concessionária.
+18-20;Homem;Não;Não;Não;Não;Não possuo conhecimento;0
+18-20;Mulher;Não;Não;Não;Não conheço;Não possuo conhecimento;Não tenho veículo 
+21-24;Homem;Sim;Sim;Não;Não conheço;1-3;Não possuo veículo 
+30+;Mulher;Sim;Não;Sim;Sim;7-10;Só para revisões 
+30+;Homem;Sim;Sim;Sim;Não;Não possuo conhecimento;várias - carro velho! 
+18-20;Mulher;Não;Não;Sim;Sim;Não possuo conhecimento;Não tenho
+30+;Homem;Sim;Sim;Sim;Não;1-3;acima de 10 vezes.
+30+;Homem;Sim;Não;Sim;Não;3-5;Somente Revisão Anual
+30+;Mulher;Não;Não;Sim;Sim;Não possuo conhecimento;nenhuma
+18-20;Mulher;Não;Não;Não;Não conheço;Não possuo conhecimento;nenhuma 
+18-20;Homem;Não;Sim;Não;Não;3-5;
+30+;Homem;Sim;Sim;Não;Não conheço;3-5;1
+21-24;Homem;Sim;Sim;Sim;Não conheço;3-5;4
+30+;Homem;Sim;Não;Sim;Sim;5-7;Mais de 10
+18-20;Homem;Não;Sim;Sim;Sim;3-5;acima de 10 vezes.
+21-24;Mulher;Sim;Não;Sim;Sim;1-3;várias - carro velho!
+30+;Homem;Não;Sim;Não;Sim;7-10;várias - carro velho!
+18-20;Homem;Sim;Não;Não;Sim;Não possuo conhecimento;acima de 10 vezes.
+30+;Homem;Não;Sim;Sim;Não conheço;5-7;1
+18-20;Homem;Não;Não;Não;Não conheço;3-5;2
+30+;Mulher;Sim;Não;Não;Não conheço;3-5;4
+18-20;Homem;Não;Não;Sim;Não;1-3;Somente Revisão Anual
+18-20;Homem;Sim;Não;Não;Não conheço;7-10;1
+18-20;Mulher;Sim;Sim;Sim;Sim;7-10;2
+21-24;Mulher;Sim;Sim;Não;Sim;7-10;várias - carro velho!
+21-24;Homem;Não;Não;Não;Não conheço;Não possuo conhecimento;Mais de 5
+21-24;Mulher;Sim;Não;Não;Sim;1-3;Mais de 10
+18-20;Homem;Não;Sim;Sim;Sim;Não possuo conhecimento;1
+30+;Mulher;Não;Não;Sim;Sim;5-7;várias - carro velho!
+21-24;Homem;Sim;Não;Sim;Sim;Não possuo conhecimento;não tenho
+21-24;Homem;Sim;Não;Não;Não conheço;3-5;4
+21-24;Mulher;Não;Não;Não;Sim;1-3;Só para revisões
+18-20;Mulher;Sim;Não;Não;Sim;1-3;Não possuo veículo
+18-20;Homem;Não;Não;Não;Não;Não possuo conhecimento;Somente Revisão Anual
+18-20;Mulher;Não;Não;Não;Não conheço;5-7;Somente Revisão Anual
+30+;Mulher;Sim;Não;Não;Sim;5-7;2
+21-24;Homem;Sim;Sim;Sim;Não conheço;5-7;2
+21-24;Mulher;Não;Sim;Não;Sim;1-3;2
+30+;Mulher;Sim;Não;Não;Sim;3-5;6 vezes
+18-20;Homem;Não;Sim;Sim;Sim;5-7;Somente Revisão Anual
+18-20;Mulher;Sim;Sim;Sim;Não;Não possuo conhecimento;Não tenho veículo
+30+;Homem;Sim;Não;Não;Sim;3-5;Mais de 5
+30+;Homem;Não;Sim;Sim;Não conheço;7-10;Mais de 5
+18-20;Homem;Não;Sim;Não;Não;1-3;0
+30+;Mulher;Não;Não;Sim;Sim;5-7;Mais de 10
+21-24;Homem;Não;Não;Não;Não conheço;3-5;4
+30+;Homem;Não;Sim;Não;Sim;7-10;Mais de 5
+30+;Mulher;Sim;Não;Não;Não conheço;3-5;Somente Revisão Anual
+30+;Mulher;Não;Sim;Sim;Sim;1-3;2
+18-20;Homem;Sim;Não;Não;Não;Não possuo conhecimento;0
+30+;Homem;Sim;Sim;Não;Não;3-5;Nenhuma vez
+30+;Mulher;Sim;Sim;Sim;Não;7-10;Somente Revisão Anual
+21-24;Mulher;Sim;Não;Sim;Sim;3-5;3
+21-24;Homem;Sim;Sim;Não;Não conheço;1-3;4
+30+;Mulher;Sim;Sim;Sim;Sim;1-3;3
+18-20;Homem;Sim;Sim;Não;Não conheço;Não possuo conhecimento;3
+18-20;Homem;Sim;Não;Não;Não conheço;7-10;0
+18-20;Mulher;Sim;Não;Não;Não conheço;5-7;Apenas em revisões na concessionária.
+21-24;Mulher;Sim;Sim;Sim;Sim;5-7;não tenho
+18-20;Homem;Não;Sim;Não;Sim;3-5;2
+18-20;Homem;Não;Sim;Sim;Não;3-5;Não possuo veículo
+21-24;Homem;Sim;Sim;Sim;Sim;Não possuo conhecimento;6 vezes
+21-24;Homem;Sim;Sim;Sim;Não conheço;Não possuo conhecimento;Somente Revisão Anual
+30+;Homem;Sim;Não;Não;Sim;Não possuo conhecimento;nenhuma
+30+;Mulher;Não;Sim;Não;Sim;1-3;Apenas em revisões na concessionária.
+30+;Homem;Sim;Não;Sim;Não conheço;7-10;várias - carro velho!
+18-20;Mulher;Sim;Não;Sim;Não conheço;3-5;nenhuma
+30+;Mulher;Não;Sim;Não;Não conheço;3-5;várias - carro velho!
+18-20;Homem;Não;Sim;Sim;Sim;3-5;Apenas em revisões na concessionária.
+18-20;Mulher;Não;Sim;Sim;Não;5-7;Não possuo veículo
+21-24;Mulher;Sim;Sim;Não;Não;Não possuo conhecimento;Não possuo veículo
+21-24;Mulher;Sim;Sim;Sim;Não;1-3;5
+30+;Mulher;Sim;Sim;Não;Sim;1-3;Nenhuma vez
+30+;Homem;Não;Sim;Sim;Não;5-7;Não possuo veículo
+30+;Mulher;Sim;Sim;Não;Não;5-7;Apenas em revisões na concessionária.
+18-20;Homem;Não;Sim;Não;Sim;Não possuo conhecimento;Nenhuma vez
+21-24;Mulher;Não;Não;Não;Não conheço;Não possuo conhecimento;2
+21-24;Homem;Sim;Não;Não;Não;1-3;Não possuo veículo
+18-20;Homem;Não;Não;Sim;Não conheço;1-3;Nenhuma vez
+21-24;Homem;Não;Não;Não;Sim;5-7;6 vezes
+30+;Mulher;Não;Não;Não;Não conheço;Não possuo conhecimento;5
+30+;Homem;Sim;Não;Não;Não conheço;5-7;Não tenho veículo
+21-24;Homem;Não;Sim;Sim;Sim;1-3;3
+18-20;Mulher;Sim;Sim;Não;Não conheço;7-10;Somente Revisão Anual
+18-20;Mulher;Sim;Sim;Não;Não conheço;5-7;Não tenho veículo
+21-24;Homem;Sim;Sim;Não;Não;5-7;Não possuo veículo
+21-24;Homem;Não;Não;Não;Não;7-10;nenhuma
+18-20;Homem;Não;Sim;Não;Sim;1-3;nenhuma
+30+;Homem;Sim;Sim;Sim;Sim;Não possuo conhecimento;Mais de 10
+21-24;Mulher;Sim;Sim;Não;Não;7-10;várias - carro velho!
+18-20;Homem;Sim;Sim;Não;Não;1-3;2
+21-24;Homem;Não;Sim;Sim;Não;1-3;várias - carro velho!
+30+;Mulher;Sim;Sim;Não;Não;5-7;Só para revisões
+18-20;Mulher;Não;Não;Não;Sim;1-3;4
+30+;Homem;Sim;Sim;Não;Sim;3-5;Somente Revisão Anual
+21-24;Mulher;Sim;Não;Não;Não;3-5;Mais de 5
+21-24;Mulher;Sim;Sim;Sim;Não;3-5;Apenas em revisões na concessionária.
+21-24;Homem;Não;Não;Sim;Não conheço;5-7;1
+18-20;Homem;Sim;Não;Não;Sim;7-10;Nenhuma vez
+30+;Homem;Sim;Sim;Sim;Sim;1-3;1
+21-24;Homem;Sim;Sim;Sim;Não;5-7;Apenas em revisões na concessionária.
+18-20;Homem;Não;Não;Sim;Não;7-10;0
+21-24;Homem;Sim;Não;Sim;Sim;5-7;3
+18-20;Homem;Sim;Não;Sim;Não conheço;Não possuo conhecimento;várias - carro velho!
+21-24;Homem;Sim;Sim;Sim;Não;5-7;0
+21-24;Homem;Não;Sim;Não;Não conheço;Não possuo conhecimento;Não tenho veículo
+21-24;Mulher;Não;Sim;Não;Não;1-3;Mais de 10
+30+;Mulher;Não;Não;Não;Não;7-10;3
+30+;Homem;Não;Sim;Não;Sim;Não possuo conhecimento;Nenhuma vez
+21-24;Mulher;Sim;Sim;Não;Não conheço;5-7;3
+30+;Homem;Não;Sim;Não;Não conheço;1-3;5
+30+;Mulher;Não;Sim;Não;Não;5-7;Somente Revisão Anual
+30+;Homem;Não;Não;Não;Sim;3-5;Apenas em revisões na concessionária.
+18-20;Homem;Não;Sim;Não;Não conheço;Não possuo conhecimento;Não tenho veículo
+21-24;Mulher;Sim;Não;Não;Não;Não possuo conhecimento;Mais de 5
+30+;Mulher;Não;Sim;Não;Não conheço;7-10;nenhuma
+30+;Homem;Sim;Não;Sim;Não;Não possuo conhecimento;Mais de 10
+18-20;Mulher;Não;Sim;Sim;Não conheço;Não possuo conhecimento;5
+18-20;Mulher;Não;Não;Sim;Não conheço;Não possuo conhecimento;Nenhuma vez
+18-20;Homem;Não;Não;Sim;Não;Não possuo conhecimento;5
+30+;Mulher;Não;Não;Sim;Não conheço;Não possuo conhecimento;nenhuma
+21-24;Homem;Não;Não;Não;Não;7-10;Não tenho veículo
+21-24;Homem;Sim;Sim;Não;Sim;1-3;não tenho
+30+;Mulher;Sim;Não;Sim;Não conheço;3-5;Só para revisões
+18-20;Mulher;Sim;Sim;Sim;Não;5-7;Apenas em revisões na concessionária.
+18-20;Mulher;Não;Sim;Sim;Não;3-5;acima de 10 vezes.
+18-20;Homem;Sim;Sim;Não;Sim;Não possuo conhecimento;Mais de 10
+21-24;Homem;Não;Sim;Não;Sim;5-7;5
+21-24;Mulher;Sim;Sim;Sim;Não;3-5;3
+21-24;Mulher;Sim;Não;Não;Não;1-3;não tenho
+18-20;Homem;Sim;Não;Sim;Não;1-3;Nenhuma vez
+18-20;Homem;Não;Sim;Não;Não;7-10;Só para revisões
+21-24;Mulher;Sim;Sim;Não;Sim;3-5;Mais de 5
+21-24;Mulher;Não;Não;Sim;Não;Não possuo conhecimento;Mais de 10
+30+;Mulher;Não;Não;Não;Não conheço;1-3;Apenas em revisões na concessionária.
+18-20;Homem;Não;Sim;Não;Sim;7-10;nenhuma
+21-24;Mulher;Sim;Sim;Não;Não conheço;7-10;Mais de 10
+18-20;Homem;Sim;Não;Não;Não conheço;Não possuo conhecimento;Não possuo veículo
+30+;Mulher;Não;Sim;Não;Não conheço;7-10;5
+30+;Mulher;Sim;Não;Sim;Não conheço;7-10;0
+30+;Homem;Não;Sim;Não;Não;3-5;5
+30+;Mulher;Não;Sim;Não;Não;3-5;Apenas em revisões na concessionária.
+30+;Homem;Não;Sim;Não;Não;5-7;Não possuo veículo
+30+;Mulher;Sim;Sim;Sim;Não conheço;3-5;várias - carro velho!
+18-20;Homem;Sim;Sim;Não;Não conheço;3-5;Não possuo veículo
+18-20;Homem;Não;Não;Sim;Sim;3-5;Apenas em revisões na concessionária.
+21-24;Homem;Sim;Não;Sim;Sim;5-7;2
+21-24;Mulher;Não;Sim;Não;Não;1-3;5
+30+;Mulher;Sim;Sim;Não;Sim;Não possuo conhecimento;acima de 10 vezes.
+30+;Homem;Sim;Não;Sim;Não conheço;5-7;acima de 10 vezes.
+30+;Mulher;Não;Não;Não;Sim;7-10;Nenhuma vez
+30+;Mulher;Sim;Sim;Não;Não conheço;Não possuo conhecimento;Nenhuma vez
+18-20;Homem;Sim;Sim;Sim;Sim;1-3;várias - carro velho!
+18-20;Homem;Sim;Não;Não;Não;3-5;5
+30+;Homem;Não;Não;Não;Não;1-3;Não possuo veículo
+21-24;Mulher;Não;Não;Sim;Não;3-5;não tenho
+18-20;Mulher;Não;Não;Sim;Sim;3-5;1
+30+;Mulher;Não;Sim;Sim;Não;3-5;0
+21-24;Homem;Não;Sim;Não;Sim;Não possuo conhecimento;0
+21-24;Homem;Não;Sim;Sim;Não conheço;7-10;Apenas em revisões na concessionária.
+30+;Homem;Sim;Sim;Não;Não conheço;7-10;0
+21-24;Homem;Sim;Sim;Sim;Sim;Não possuo conhecimento;acima de 10 vezes.
+30+;Mulher;Sim;Sim;Sim;Não conheço;1-3;4
+30+;Mulher;Não;Sim;Sim;Sim;5-7;5
+21-24;Mulher;Não;Não;Não;Sim;7-10;acima de 10 vezes.
+30+;Homem;Sim;Sim;Sim;Sim;5-7;2
+21-24;Mulher;Não;Sim;Sim;Não conheço;5-7;Mais de 5
+30+;Homem;Não;Não;Sim;Sim;1-3;Não tenho veículo
+21-24;Mulher;Sim;Sim;Sim;Não conheço;5-7;6 vezes
+30+;Homem;Não;Não;Não;Sim;Não possuo conhecimento;Mais de 10
+18-20;Mulher;Não;Não;Sim;Sim;Não possuo conhecimento;3
+30+;Mulher;Sim;Sim;Sim;Sim;1-3;5
+18-20;Mulher;Sim;Não;Sim;Não conheço;7-10;Não possuo veículo
+18-20;Mulher;Sim;Sim;Não;Não;7-10;várias - carro velho!
+21-24;Homem;Sim;Não;Sim;Sim;3-5;Apenas em revisões na concessionária.
+30+;Homem;Sim;Não;Sim;Não conheço;7-10;3
+30+;Homem;Não;Sim;Sim;Não conheço;5-7;várias - carro velho!
+18-20;Mulher;Não;Sim;Sim;Sim;5-7;Não tenho veículo
+18-20;Homem;Não;Não;Sim;Não;7-10;Mais de 5
+30+;Homem;Não;Não;Não;Não conheço;7-10;Nenhuma vez
+18-20;Homem;Não;Sim;Não;Não conheço;7-10;0
+21-24;Homem;Sim;Sim;Não;Sim;3-5;2
+18-20;Homem;Não;Sim;Sim;Não;Não possuo conhecimento;Apenas em revisões na concessionária.
+18-20;Mulher;Não;Não;Sim;Não;1-3;Não tenho veículo
+18-20;Mulher;Sim;Não;Sim;Sim;7-10;4
+30+;Mulher;Sim;Sim;Sim;Sim;5-7;Mais de 10
+18-20;Homem;Sim;Sim;Sim;Não conheço;3-5;várias - carro velho!
+18-20;Homem;Não;Não;Não;Sim;Não possuo conhecimento;Não possuo veículo
+18-20;Homem;Sim;Não;Sim;Não conheço;Não possuo conhecimento;Apenas em revisões na concessionária.
+21-24;Mulher;Não;Não;Não;Não;7-10;4
+18-20;Homem;Não;Não;Sim;Não;1-3;Nenhuma vez
+21-24;Homem;Sim;Não;Sim;Sim;3-5;Apenas em revisões na concessionária.
+21-24;Mulher;Sim;Sim;Sim;Não conheço;3-5;Não tenho veículo
+30+;Homem;Sim;Não;Sim;Não conheço;7-10;Somente Revisão Anual
+18-20;Mulher;Não;Sim;Sim;Não;3-5;6 vezes
+18-20;Homem;Sim;Sim;Não;Não conheço;3-5;5
+30+;Mulher;Não;Não;Não;Sim;Não possuo conhecimento;Mais de 5
+21-24;Homem;Sim;Sim;Não;Sim;1-3;Mais de 10
+21-24;Homem;Não;Não;Não;Não;Não possuo conhecimento;Mais de 5
+21-24;Mulher;Sim;Não;Não;Não;Não possuo conhecimento;acima de 10 vezes.
+21-24;Mulher;Sim;Não;Não;Não conheço;3-5;3
+21-24;Homem;Não;Não;Não;Não conheço;Não possuo conhecimento;1
+30+;Mulher;Sim;Não;Sim;Sim;5-7;Somente Revisão Anual
+21-24;Homem;Sim;Sim;Sim;Não conheço;7-10;Não possuo veículo
+30+;Homem;Sim;Sim;Sim;Não conheço;7-10;Não tenho veículo
+18-20;Mulher;Não;Não;Sim;Não;7-10;4
+30+;Mulher;Sim;Sim;Não;Sim;1-3;5
+18-20;Homem;Sim;Não;Não;Não;3-5;1
+21-24;Homem;Sim;Não;Sim;Sim;1-3;Somente Revisão Anual
+21-24;Homem;Sim;Não;Sim;Sim;Não possuo conhecimento;várias - carro velho!
+21-24;Mulher;Sim;Não;Sim;Não conheço;7-10;não tenho
+18-20;Mulher;Sim;Sim;Sim;Não;3-5;Não possuo veículo
+18-20;Mulher;Sim;Não;Não;Não conheço;1-3;Mais de 10
+30+;Homem;Sim;Sim;Sim;Não;1-3;4
+21-24;Mulher;Sim;Não;Não;Não;1-3;Nenhuma vez
+21-24;Homem;Sim;Não;Sim;Sim;3-5;Mais de 10
+18-20;Mulher;Sim;Não;Não;Não conheço;7-10;2
+21-24;Mulher;Não;Sim;Sim;Não conheço;Não possuo conhecimento;acima de 10 vezes.
+30+;Mulher;Sim;Sim;Sim;Não;7-10;não tenho
+18-20;Homem;Não;Sim;Sim;Não;1-3;Somente Revisão Anual
+18-20;Homem;Não;Sim;Não;Não conheço;7-10;Só para revisões
+30+;Mulher;Não;Sim;Não;Não;3-5;Nenhuma vez
+18-20;Mulher;Sim;Não;Sim;Não;5-7;0
+21-24;Homem;Não;Não;Não;Não conheço;5-7;Não tenho veículo
+21-24;Mulher;Não;Sim;Não;Sim;5-7;6 vezes
+30+;Homem;Não;Não;Sim;Não conheço;1-3;2
+30+;Mulher;Sim;Sim;Não;Sim;7-10;acima de 10 vezes.
+30+;Homem;Não;Sim;Não;Não conheço;5-7;Somente Revisão Anual
+30+;Mulher;Sim;Sim;Não;Sim;5-7;Apenas em revisões na concessionária.
+18-20;Homem;Sim;Sim;Não;Sim;3-5;Só para revisões
+30+;Mulher;Sim;Sim;Sim;Não;1-3;Só para revisões
+21-24;Homem;Sim;Não;Não;Sim;3-5;não tenho
+21-24;Homem;Não;Sim;Não;Não;3-5;Somente Revisão Anual
+30+;Mulher;Não;Não;Não;Sim;1-3;4
+21-24;Mulher;Sim;Sim;Não;Sim;7-10;Apenas em revisões na concessionária.
+30+;Homem;Não;Sim;Sim;Não;7-10;Somente Revisão Anual
+18-20;Homem;Não;Sim;Não;Não;5-7;Somente Revisão Anual
+30+;Mulher;Sim;Não;Sim;Não;1-3;nenhuma
+30+;Mulher;Não;Não;Não;Não;3-5;3
+30+;Mulher;Sim;Sim;Não;Não;1-3;Mais de 10
+30+;Mulher;Não;Sim;Sim;Não conheço;5-7;3
+18-20;Mulher;Sim;Não;Sim;Não conheço;3-5;acima de 10 vezes.
+21-24;Homem;Sim;Sim;Não;Sim;7-10;Apenas em revisões na concessionária.
+18-20;Mulher;Sim;Não;Sim;Sim;3-5;1
+30+;Homem;Não;Não;Sim;Não;Não possuo conhecimento;Somente Revisão Anual
+18-20;Mulher;Não;Sim;Não;Não;7-10;Mais de 10
+18-20;Mulher;Não;Sim;Sim;Não conheço;7-10;Nenhuma vez
+18-20;Homem;Não;Sim;Não;Não;7-10;Mais de 5
+21-24;Homem;Sim;Não;Sim;Não;5-7;Apenas em revisões na concessionária.
+21-24;Mulher;Não;Não;Não;Sim;7-10;Mais de 5
+30+;Mulher;Sim;Não;Não;Não;1-3;Nenhuma vez
+18-20;Mulher;Não;Não;Sim;Sim;5-7;não tenho
+21-24;Mulher;Sim;Não;Sim;Não conheço;7-10;5
+30+;Mulher;Não;Não;Não;Não;3-5;várias - carro velho!
+18-20;Mulher;Não;Sim;Sim;Não;1-3;várias - carro velho!
+18-20;Homem;Não;Não;Não;Não conheço;Não possuo conhecimento;3
+21-24;Homem;Não;Sim;Não;Não conheço;5-7;acima de 10 vezes.
+18-20;Homem;Não;Sim;Sim;Sim;1-3;6 vezes
+30+;Mulher;Não;Sim;Não;Não;3-5;Somente Revisão Anual
+21-24;Mulher;Sim;Não;Não;Não conheço;7-10;Nenhuma vez
+21-24;Mulher;Sim;Não;Sim;Não conheço;Não possuo conhecimento;3
+18-20;Homem;Não;Sim;Não;Sim;3-5;Somente Revisão Anual
+21-24;Mulher;Não;Não;Sim;Sim;3-5;6 vezes
+18-20;Homem;Sim;Não;Sim;Não conheço;7-10;Não possuo veículo
+18-20;Mulher;Não;Sim;Sim;Não;Não possuo conhecimento;0
+30+;Homem;Sim;Sim;Não;Não;Não possuo conhecimento;Mais de 5
+30+;Mulher;Não;Não;Sim;Sim;5-7;acima de 10 vezes.
+18-20;Homem;Não;Sim;Sim;Sim;7-10;nenhuma
+30+;Homem;Sim;Não;Sim;Sim;3-5;nenhuma
+30+;Homem;Não;Não;Não;Sim;7-10;várias - carro velho!
+30+;Homem;Sim;Sim;Não;Sim;3-5;acima de 10 vezes.
+30+;Mulher;Não;Não;Sim;Não;3-5;Só para revisões
+18-20;Mulher;Não;Sim;Sim;Sim;7-10;1
+30+;Mulher;Não;Sim;Sim;Não;Não possuo conhecimento;Mais de 5
+21-24;Mulher;Sim;Sim;Não;Sim;5-7;Não possuo veículo
+18-20;Mulher;Não;Sim;Sim;Não;3-5;6 vezes
+21-24;Homem;Não;Não;Sim;Não conheço;5-7;Mais de 5
+21-24;Homem;Sim;Sim;Não;Não;1-3;4
+18-20;Homem;Sim;Não;Sim;Não conheço;1-3;acima de 10 vezes.
+30+;Homem;Não;Não;Sim;Não conheço;1-3;Mais de 5
+18-20;Homem;Não;Sim;Não;Sim;5-7;Mais de 5
+30+;Homem;Sim;Sim;Não;Sim;3-5;1
+30+;Homem;Sim;Não;Sim;Não conheço;Não possuo conhecimento;Somente Revisão Anual
+21-24;Homem;Não;Sim;Sim;Não conheço;7-10;2
+30+;Homem;Sim;Não;Sim;Sim;1-3;Mais de 10
+30+;Mulher;Sim;Sim;Não;Não;5-7;Mais de 5
+21-24;Mulher;Não;Não;Não;Não conheço;7-10;Mais de 10
+30+;Mulher;Não;Não;Sim;Não conheço;5-7;Mais de 10
+21-24;Homem;Não;Sim;Sim;Sim;5-7;2
+18-20;Homem;Não;Sim;Sim;Sim;3-5;Mais de 10
+21-24;Mulher;Não;Não;Não;Sim;1-3;não tenho
+18-20;Homem;Sim;Não;Não;Não;5-7;Não tenho veículo
+18-20;Homem;Sim;Não;Sim;Não conheço;3-5;Só para revisões
+21-24;Mulher;Não;Não;Não;Sim;5-7;5
+18-20;Mulher;Não;Sim;Não;Não conheço;5-7;várias - carro velho!
+18-20;Homem;Sim;Não;Sim;Sim;7-10;4
+18-20;Homem;Não;Não;Sim;Sim;5-7;5
+21-24;Mulher;Sim;Não;Não;Sim;1-3;4
+18-20;Homem;Não;Sim;Não;Não;5-7;Somente Revisão Anual
+30+;Homem;Não;Sim;Não;Não;1-3;0
+30+;Mulher;Não;Sim;Sim;Sim;5-7;1
+30+;Mulher;Não;Não;Não;Não;1-3;3
+18-20;Mulher;Sim;Sim;Sim;Sim;Não possuo conhecimento;2
+21-24;Mulher;Não;Sim;Não;Não conheço;1-3;5
+30+;Mulher;Não;Não;Sim;Sim;Não possuo conhecimento;Somente Revisão Anual
+18-20;Homem;Não;Sim;Não;Não conheço;3-5;5
+30+;Mulher;Sim;Sim;Não;Sim;1-3;0
+18-20;Mulher;Não;Sim;Não;Não;Não possuo conhecimento;Mais de 10
+21-24;Homem;Não;Não;Sim;Não conheço;Não possuo conhecimento;4
+30+;Mulher;Sim;Sim;Sim;Não;5-7;não tenho
+30+;Homem;Sim;Não;Sim;Não conheço;3-5;Apenas em revisões na concessionária.
+21-24;Mulher;Sim;Não;Não;Não conheço;5-7;Somente Revisão Anual

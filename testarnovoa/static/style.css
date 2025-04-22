@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    text-align: center;
+    padding: 40px;
+}
+
+.grafico-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+body {
+    text-align: center;
+    font-family: sans-serif;
+    background-color: #fafafa;
+}
+
+.grafico-container img {
+    width: 400px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    background: white;
+}
